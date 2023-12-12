@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Инструкция</title>
+</head>
+<body>
+
+    <h1>Инструкция по использованию</h1>
+
+    <p>Абай атындағы Қазақ ұлттық педогогикалақ университені
+                  Математика, Физика және Информатика институты
+                  Информатика және білімді ақпараттандыру кафедрасы
+
+1 курс студенті Абдирасули Нұртай Нағашыбай ұлы.</p>
+
+    <h2></h2>
+    <p>Перейдите на наш сайт: <a href="https://nabdirasuli.wixsite.com/nurtai1</a> .</p>
+
+    <h2></h2>
+    <p>.</p>
+
+    <h2> Наслаждайтесь!</h2>
+    <.</p>
+
+    <img src="example-photo.jpg" alt="Пример фото">
+
+</body>
+</html>
